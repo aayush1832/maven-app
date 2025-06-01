@@ -69,8 +69,8 @@
     <div class="container">
         <div class="content">
             <h1Hello ... ! <span class="name">Cloud Enthusiast !</span></h1>
-            <p>My name is <span class="highlighted-name">Aayush</span>, I am an <span class="DevOps Engineer">AWS and DevOps</span>.</p>
-            <p class="curriculum"><em>My Recommended curriculum to become a DevOps Engineer:</em></p>
+            <p>My name is <span class="highlighted-name">Aayush</span>, I am an <span class="DevOps Engineer">AWS and DevOps Engineer.</span>.</p>
+            <p class="curriculum"><em>I’m passionate about teaching and working on real-world cloud-native solutions.Below is my recommended curriculum for becoming a successful DevOps Engineer::</em></p>
             <p><strong>AWS Concepts:</strong> Introduction to Cloud, Cloud Service Providers, AWS Global Infrastructure, S3, EFS, EC2, Auto Scaling, Load Balancers, VPC, IAM, RDS, Dynamo DB, SNS, Cloud Watch, LighSail, Cloud Trial, SQS, SES, Route 53, SnowBall, Elastic BeanStalk, Cloud Formation</p>
             <p><strong>LINUX AND SHELL SCRIPTING</strong></p>
             <p><strong>DevOps Concepts:</strong> System Architecture, Introduction to DevOps, SDLC - Concept & Models, Maven, Git, GitHub, Tomcat, Jenkins, Docker, Kubernetes, Terraform, Ansible, SonarQube</p>
